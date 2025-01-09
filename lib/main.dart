@@ -10,7 +10,7 @@ class App extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const String titulo = 'Calculadora Web';
+    const String titulo = 'Jogo da Velha Web';
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: titulo,
